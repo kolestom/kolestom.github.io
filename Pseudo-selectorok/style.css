@@ -5,10 +5,10 @@ main {
 }
 
 p {
-    border: 1px black solid;
-    width: 300px;
+    border: 0.02em black solid;
+    width: 20em;
     margin: 0px;
-    padding: 20px;
+    padding: 1em;
 }
 
 p:hover {
