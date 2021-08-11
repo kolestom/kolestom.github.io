@@ -1,0 +1,29 @@
+main {
+    width: 500px;
+    position: absolute;
+    left: 10vw;
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px blue solid;
+    list-style-type: none;
+    padding: 0vw;
+}
+li {
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    margin: 1vw 0vw;
+    padding: 0;
+
+}
+#bot {
+    background-color: orangered;
+
+}
+.bottom {
+    background-color: purple;
+}
